@@ -22,6 +22,7 @@ The report translates predictive model insights into a clear, actionable strateg
 
 ## 🎯 Outcome
 A structured, non-technical report connecting data insights with real-world decisions in financial services.
+![Visitor Count](https://profile-counter.glitch.me/BandiYamuna-tata-task3-business-report/count.svg)
 
 ---
 © 2025 – Tata iQ Internship Submission

@@ -25,3 +25,5 @@ A structured, non-technical report connecting data insights with real-world deci
 
 ---
 © 2025 – Tata iQ Internship Submission
+![Visitor Count](https://profile-counter.glitch.me/yamuna123-tata-task3-business-report/count.svg)
+
